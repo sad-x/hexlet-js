@@ -1,7 +1,6 @@
 import _ from "lodash";
 
-console.log(_.last(['one', 'two']));
+console.log(_.last(["one", "two"]));
 
 for (let i = 0; i < 10; i++) {
-    console.log('Hello World!');
-}
+  console.log("Hello World!");}
